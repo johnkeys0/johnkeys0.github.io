@@ -1,0 +1,15 @@
+#index_book1_inside {
+    float:left;
+    border-radius: 25px;
+    border-width : 10px;
+    border-style: solid;
+    border-color: rgb(134, 107, 18);
+    background: rgb(255, 196, 0);
+    padding: 20px;
+    width: 30px;
+    height: 30px;
+
+    margin-bottom:15px;
+    text-align:left;
+    font-size: 26px;
+  }

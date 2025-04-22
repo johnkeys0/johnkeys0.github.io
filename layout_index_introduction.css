@@ -1,12 +1,12 @@
-#corner1 {
+#index_introduction {
     border-radius: 25px;
     border-width : 10px;
     border-style: solid;
-    border-color: #2c4707;
-    background: #73AD21;
+    border-color: rgb(129, 13, 13);
+    background: red;
     padding: 20px;
     width: 500px;
-    height: 700px;
+    height: 200px;
 
     margin:auto;
     text-align:left;

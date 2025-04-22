@@ -1,12 +1,12 @@
-#corner1 {
+#index_book1 { 
     border-radius: 25px;
     border-width : 10px;
     border-style: solid;
-    border-color: #2c4707;
-    background: #73AD21;
+    border-color: rgb(134, 107, 18);
+    background: rgb(255, 196, 0);
     padding: 20px;
     width: 500px;
-    height: 700px;
+    height: 90px;
 
     margin:auto;
     text-align:left;
