@@ -1,5 +1,7 @@
 #corner1 {
-    border-radius: 25px;
+  float:center;  
+  
+  border-radius: 25px;
     border-width : 10px;
     border-style: solid;
     border-color: #2c4707;
@@ -8,7 +10,7 @@
     width: 500px;
     height: 900px;
 
-    float:center;
+    margin:auto;
     text-align:left;
     font-size: 26px;
   }
